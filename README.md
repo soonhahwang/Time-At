@@ -17,4 +17,4 @@ Input any location of the world in any format,
 
 ## Authorization
 
-No authorization is needed to use this bot!
+No authorization is needed for this bot!
