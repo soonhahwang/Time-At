@@ -2,14 +2,21 @@
 Timeat is a Discord bot that tells the users the time and timezone of desired location.
 
 ## Usage
-To add the bot to your server, simply invite with:
-
-```bash 
-https://discord.com/api/oauth2/authorize?client_id=785490903522476032&permissions=0&scope=bot
-```
+To add the bot to your server, simply invite with: [invitation link](https://discord.com/api/oauth2/authorize?client_id=785490903522476032&permissions=0&scope=bot
+)
 
 ## Commands
 ```bash
 !time [location]
 ```
-![example image](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example2.PNG)
+
+Input any location of the world in any format
+
+City<br/>
+![example image1](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example1.PNG)
+
+State<br/>
+![example image2](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example2.PNG)
+
+Country<br/>
+![example_image3](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example3.PNG)
