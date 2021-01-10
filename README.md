@@ -14,3 +14,7 @@ Input any location of the world in any format,
 
 ![example image2](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example2.PNG)<br/>
 ![example_image3](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example3.PNG)<br/>
+
+## Authorization
+
+No authorization is needed to use this bot!
