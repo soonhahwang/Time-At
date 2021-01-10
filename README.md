@@ -10,13 +10,7 @@ To add the bot to your server, simply invite with: [invitation link](https://dis
 !time [location]
 ```
 
-Input any location of the world in any format
+Input any location of the world in any format, 
 
-City<br/>
-![example image1](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example1.PNG)
-
-State<br/>
-![example image2](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example2.PNG)
-
-Country<br/>
-![example_image3](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example3.PNG)
+![example image2](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example2.PNG)<br/>
+![example_image3](https://github.com/soonhahwang/Time-In/blob/main/assets/images/example3.PNG)<br/>
