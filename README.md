@@ -12,4 +12,4 @@ https://discord.com/api/oauth2/authorize?client_id=785490903522476032&permission
 ```bash
 !time [location]
 ```
-
+![example image](assets/images/example1.png?raw=true)
